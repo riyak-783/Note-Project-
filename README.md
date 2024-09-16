@@ -1,6 +1,6 @@
 # Note Application
 
-This is a full-stack note-taking application that allows users to create, read, update, and delete notes. The app is built using Node.js, Express.js, MongoDB, and npm, integrating both front-end and back-end components.
+This is a note-taking application that allows users to create, read, update, and delete notes. The app is built using Node.js, Express.js, MongoDB, and npm, integrating both front-end and back-end components.
 
 ## Features
 
